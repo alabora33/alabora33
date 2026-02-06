@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ali Bora 👋
 
-<!--
-**alabora33/alabora33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building **AI-powered developer tools**,  
+**cloud-native SaaS platforms**, and **embedded communication systems**.
 
-Here are some ideas to get you started:
+- 🧠 AI Developer Tools & Multi-Agent Systems (LangChain, LangGraph)
+- ⚙️ Backend Engineering (Python, Django, PostgreSQL, REST APIs)
+- ☁️ DevOps & Cloud Deployment (Docker, AWS, CI/CD)
+- 🔌 EV Charging Infrastructure (OCPP, CANbus, TCP/IP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI Developer Tools Platform
+Multi-agent orchestration system for embedded software engineers  
+**Tech:** Python, LangChain, Docker, MCP
+
+### 🔹 Carbon Footprint SaaS Platform
+Enterprise sustainability reporting & CBAM compliance platform  
+**Tech:** Django, PostgreSQL, Microservices, AWS
+
+### 🔹 EV Charging Communication Engine
+OCPP-based transaction and controller integration for charging stations  
+**Tech:** Raspberry Pi, CANbus, Powerline Communication
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/aliboravarinli  
+- Email: aliboravarinli@gmail.com
