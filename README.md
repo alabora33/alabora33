@@ -26,6 +26,10 @@ OCPP-based transaction and controller integration for charging stations
 
 ---
 
+## 📄 Resume
+
+- [Download My Resume](./resume/Ali_Bora_Varinli_Resume.pdf)
+  
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/aliboravarinli  
